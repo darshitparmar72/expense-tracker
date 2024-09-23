@@ -1,0 +1,11 @@
+C:\Users\Darshit\Source\Repos\expense-tracker-using-csharp\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.exe.config
+C:\Users\Darshit\Source\Repos\expense-tracker-using-csharp\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.exe
+C:\Users\Darshit\Source\Repos\expense-tracker-using-csharp\ExpenseTracker\ExpenseTracker\bin\Debug\ExpenseTracker.pdb
+C:\Users\Darshit\Source\Repos\expense-tracker-using-csharp\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.AssemblyReference.cache
+C:\Users\Darshit\Source\Repos\expense-tracker-using-csharp\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.Form1.resources
+C:\Users\Darshit\Source\Repos\expense-tracker-using-csharp\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.Form2.resources
+C:\Users\Darshit\Source\Repos\expense-tracker-using-csharp\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.Properties.Resources.resources
+C:\Users\Darshit\Source\Repos\expense-tracker-using-csharp\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.GenerateResource.cache
+C:\Users\Darshit\Source\Repos\expense-tracker-using-csharp\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.csproj.CoreCompileInputs.cache
+C:\Users\Darshit\Source\Repos\expense-tracker-using-csharp\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.exe
+C:\Users\Darshit\Source\Repos\expense-tracker-using-csharp\ExpenseTracker\ExpenseTracker\obj\Debug\ExpenseTracker.pdb
